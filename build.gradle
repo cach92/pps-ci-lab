@@ -4,7 +4,7 @@ apply plugin: 'scala'
 repositories {
     mavenCentral()
 }
-
 dependencies {
+    compile group: 'it.unibo.alice.tuprolog', name: 'tuprolog', version: '2.1.1'
     compile 'org.scala-lang:scala-library:2.12.2'
 }
