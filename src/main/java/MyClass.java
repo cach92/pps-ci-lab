@@ -1,3 +1,4 @@
-public class MyClass{
+public class DoNothing{
+
 
 }
